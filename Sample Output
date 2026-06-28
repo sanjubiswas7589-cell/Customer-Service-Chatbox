@@ -1,0 +1,29 @@
+==================================================
+      CUSTOMER SERVICE CHATBOT
+==================================================
+
+Hello! I am your virtual assistant.
+
+You: hello
+
+Bot: Hello! Welcome to ABC Store. How may I help you today?
+
+You: working hours
+
+Bot: Our working hours are Monday to Saturday from 9:00 AM to 6:00 PM.
+
+You: delivery
+
+Bot: Delivery usually takes 3-5 business days depending on your location.
+
+You: refund
+
+Bot: Refunds are processed within 5-7 business days after approval.
+
+You: track order
+
+Bot: You can track your order from the 'My Orders' section after logging in.
+
+You: bye
+
+Bot: Thank you for contacting us. Have a wonderful day!
